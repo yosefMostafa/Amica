@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "33386284794",
+    "project_id": "amica-510d6",
+    "storage_bucket": "amica-510d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33386284794:android:0f158efaa773de84adeb43",
+        "android_client_info": {
+          "package_name": "com.example.amica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33386284794-vjb7k32esd9sirvantj6u153jjhsie4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amica",
+            "certificate_hash": "47af6960e5148867c3997b9a73a124be38e7c8b2"
+          }
+        },
+        {
+          "client_id": "33386284794-rqe9fp5ok3kc9k32ib73elep8d81j607.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjG1DTr7Y-ZaJJ05yzxaty6-9GxMgDv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33386284794-rqe9fp5ok3kc9k32ib73elep8d81j607.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
